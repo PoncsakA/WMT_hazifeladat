@@ -102,7 +102,7 @@ body {
 }
 
 .fokepek img:hover{
-    box-shadow: 5px 5px 5px #c4b19e;
+    box-shadow: 5px 5px 5px #333;
     filter: grayscale(0);
     transition: all 1s ease;
 }
@@ -203,7 +203,7 @@ li.legord {
 /* GALÉRIA */
 
 div.galeria:hover img{
-    box-shadow: 5px 5px 5px #B99470;
+    box-shadow: 5px 5px 5px #333;
 }
   
 div.galeria img {
