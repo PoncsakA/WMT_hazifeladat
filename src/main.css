@@ -10,10 +10,6 @@ body {
     box-sizing: border-box;
 }
 
-.hatter_div{
-
-}
-
 .hatter{
     position: absolute;
     left: 0px;
@@ -78,9 +74,6 @@ body {
     font-weight: bold;
     font-size: 6rem;
     margin: 0;
-}
-
-.elrejto{
 }
 
 .bemutatkozas{
@@ -201,36 +194,6 @@ li.legord {
 
 .menutext{
     size: 2rem;
-}
-
-
-
-.d_green {
-    color: #5F6F52
-}
-
-.l_green {
-    color: #A9B388
-}
-
-.cornsilk {
-    color: #FEFAE0
-}
-
-.lemon {
-    color: #F9EBC7
-}
-
-.camel {
-    color: #B99470
-}
-
-.alloy {
-    color: #C4661F
-}
-
-.russet {
-    color: #783D19
 }
 
 .roboto {
